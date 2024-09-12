@@ -1,0 +1,78 @@
+a{
+    text-decoration:none;
+    color: white;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.navigation{
+    background-color: rgb(175, 126, 20);
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.str{
+    font-size: 48px;;
+    margin-left: 160px;
+}
+.o_mnie{
+    margin-left: 250px;
+    font-size: 48px;
+}
+.project{
+    margin-left: 250px;
+    font-size: 48px;;
+}
+.kontakt{
+    margin-left: 250px;
+    font-size: 48px;
+}
+.wprowadzenie{
+    font-size: 36px;
+    text-align: center;
+}
+.image{
+    height:100px;
+    width:100px;
+}
+.dd{
+    text-align: center;
+    font-size: 48px;
+}
+.quotion{
+    font-size: xx-large;
+}
+.github{
+    height:100px;
+width:100px;
+}
+.tablicy{
+    width:250px;
+    height:200px;
+}
+table{
+
+    text-align: center;
+    width:100%;
+
+}
+tr{
+
+    background-color: rgb(155, 114, 11);
+}
+
+.ya{
+    text-align: center;
+}
+.else-es{
+width:250px;
+height:250px;
+}
+.else-ss{
+    width:250px;
+    height:200px;
+}
